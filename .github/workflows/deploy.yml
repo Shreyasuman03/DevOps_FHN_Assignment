@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Check out the code
       uses: actions/checkout@v2
 
     - name: Set up Node.js
@@ -24,8 +24,10 @@ jobs:
     - name: Run tests
       run: npm test
 
-    - name: Build application
+    - name: Build the application
       run: npm run build
 
-    - name: Deploy to server (Placeholder)
-      run: echo "Deploying application..."
+    - name: Deploy to Production
+      run: |
+        echo "Deploying to production server..."
+        # Add deployment commands here
