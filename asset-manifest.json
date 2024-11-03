@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/DevOps_FHN_Assignment/static/js/main.16d2e94f.chunk.js",
+    "main.js.map": "/DevOps_FHN_Assignment/static/js/main.16d2e94f.chunk.js.map",
+    "runtime~main.js": "/DevOps_FHN_Assignment/static/js/runtime~main.afffe3a3.js",
+    "runtime~main.js.map": "/DevOps_FHN_Assignment/static/js/runtime~main.afffe3a3.js.map",
+    "static/js/2.4dc2145f.chunk.js": "/DevOps_FHN_Assignment/static/js/2.4dc2145f.chunk.js",
+    "static/js/2.4dc2145f.chunk.js.map": "/DevOps_FHN_Assignment/static/js/2.4dc2145f.chunk.js.map",
+    "index.html": "/DevOps_FHN_Assignment/index.html",
+    "precache-manifest.87fcff9248ba0516def94595af395db4.js": "/DevOps_FHN_Assignment/precache-manifest.87fcff9248ba0516def94595af395db4.js",
+    "service-worker.js": "/DevOps_FHN_Assignment/service-worker.js"
+  }
+}
