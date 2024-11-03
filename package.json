@@ -1,7 +1,9 @@
 {
   "name": "DevOps_FHN_Assignment",
   "version": "1.0.0",
+  "homepage": "http://Shreyasuman03.github.io/DevOps_FHN_Assignment",
   "dependencies": {
+    "gh-pages": "^6.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^3.0.1"
@@ -10,7 +12,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
